@@ -2,10 +2,11 @@
 ### JaeJin Choi  
 ![](./image/my-photo.jpg)  
 
-Active PhD student in University of California, Berkeley, since 2019
-
-* Comparative Biochemistry program  
+An active PhD student in University of California, Berkeley, since 2019, who is doing
+* Comparative Biochemistry graduate program  
 * Designated Emphasis in Computational and Genomic Biology  
+
+My interest in biology and computer science lead me into the field of bioinformatics/computational biology. Currently focus on development and application of alignment-free approaches that view biological sequences (nucleotides and admino acids) as information that relies on a choice of descriptors (language) more than models.
 
 
 ### <span style="color: blue;">Contact</span>  
@@ -13,12 +14,12 @@ Active PhD student in University of California, Berkeley, since 2019
 * [https://orcid.org/0000-0002-2860-9606](https://orcid.org/0000-0002-2860-9606)  
 
 
-### <span style="color: blue;">Field of study</span>  
+### <span style="color: blue;">General field of study</span>  
 * Bioinformatics
 * Computational Biology
 
 
-### <span style="color: blue;">Research interest</span>  
+### <span style="color: blue;">Current research interest</span>  
 * Evolutionary study
 * Population genomics
 * Data science
