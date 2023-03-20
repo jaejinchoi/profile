@@ -2,7 +2,7 @@
 ### JaeJin Choi  
 ![](./image/my-photo.jpg)  
 
-An active PhD student in University of California, Berkeley, since 2019, who is doing
+An active PhD student in University of California, Berkeley, since 2019, participate in:
 * Comparative Biochemistry graduate program  
 * Designated Emphasis in Computational and Genomic Biology  
 
