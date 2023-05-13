@@ -6,8 +6,7 @@ An active PhD student in University of California, Berkeley, since 2019, partici
 * Comparative Biochemistry graduate program  
 * Designated Emphasis in Computational and Genomic Biology  
 
-My interest in biology and computer science lead me into the field of bioinformatics/computational biology. Currently focus on development and application of alignment-free approaches that view biological sequences (nucleotides and admino acids) as information that relies on a choice of descriptors (language) more than models.
-
+My interest in biology and computer science lead me into the field of bioinformatics/computational biology. Currently focus on development and application of alignment-free approaches that view biological sequences (nucleotides and admino acids) as information that relies on a choice of descriptors (language) more than models.  
 
 ### <span style="color: blue;">Contact</span>  
 * jaejinchoi@berkeley.edu (work), jaejinchoi@outlook.com (personal)  
