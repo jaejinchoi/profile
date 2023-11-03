@@ -6,7 +6,7 @@ An active PhD student in University of California, Berkeley, since 2019, partici
 * Comparative Biochemistry graduate program  
 * Designated Emphasis in Computational and Genomic Biology  
 
-My interest in biology and computer science lead me into the field of bioinformatics/computational biology. Currently focus on development and application of alignment-free approaches that view biological sequences (nucleotides and admino acids) as information that relies on a choice of descriptors (language) more than models.  
+My interest in biology and computer science lead me into the field of bioinformatics/computational biology. Currently focus on development and application of a sequence comparison based on language analysis (e.g., alignment-free approach) that view biological sequences as information and rely on a choice of descriptors (data) over models.  
 
 ### <span style="color: blue;">Contact</span>  
 * jaejinchoi@berkeley.edu (work), jaejinchoi@outlook.com (personal)  
@@ -28,6 +28,7 @@ My interest in biology and computer science lead me into the field of bioinforma
 ### <span style="color: blue;">Publication/Collaboration</span>  
 | Title | Date |
 |--------------|------------:|
+| B.-J. Kim, JJ. Choi, S.-H. Kim, On whole-genome demography of world’s ethnic groups and individual genomic identity. Sci Rep 13, 6316. doi:10.1038/s41598-023-32325-w | 2023-04 |
 | Pre-print: Whole-Proteome Tree of Arthropods: An “alignment-free” phylogeny of proteome “books”| 2020-02 | 2020-07 |
 | Choi JJ, Kim S-H. Whole-proteome tree of life suggests a deep burst of organism diversity. Proc Natl Acad Sci. 2019;117:756155. doi:10.1101/756155.| 2020-02 |
 | Zielezinski A, Girgis HZ, Bernard G, Leimeister C-A, Tang K, Dencker T, et al. Benchmarking of alignment-free sequence comparison methods. Genome Biol. 2019;20:144. doi:10.1186/s13059-019-1755-7. | 2019 |
