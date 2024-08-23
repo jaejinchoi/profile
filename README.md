@@ -2,10 +2,10 @@
 ### JaeJin Choi  
 ![](./image/my-photo.jpg)  
 
-An active PhD student in University of California, Berkeley, since 2019, participate in:  
-
- * Comparative Biochemistry graduate program  
- * Designated Emphasis in Computational and Genomic Biology  
+Postdoc in University of California, Berkeley, since 2024, focused on:  
+* Evolutionary study 
+* Development and application of an alignment-free sequence comparison of information theory 
+* Virus evolution and origin study
 
 My interest in biology and computer science lead me into the field of bioinformatics/computational biology. Currently focus on development and application of a sequence comparison based on language analysis (e.g., alignment-free approach) that view biological sequences as information and rely on a choice of descriptors (data) over models.  
 
@@ -20,9 +20,10 @@ My interest in biology and computer science lead me into the field of bioinforma
 
 
 ### <span style="color: blue;">Current research interest</span>  
-* Evolutionary study
+* Evolutionary study; Phylogenomics
 * Population genomics
 * Data science
+* (Large) Data summary and visualization 
 
 <hr>
 
@@ -46,6 +47,6 @@ My interest in biology and computer science lead me into the field of bioinforma
 ### <span style="color: blue;">Education</span>
 | Institute | Program/Department | Status | Location | Date |
 |--------------|-------------|-------------|-------------|-------------|
-| University of California Berkeley | Comparative Biochemistry, Dept. Chemistry| Active PhD student | Berkeley, California, USA | 2019-08 to present |
+| University of California Berkeley | Comparative Biochemistry graduate program | PhD in Comparative Biochemistry, and Designated Emphasis in Computational and Genomic Biology | Berkeley, California, USA | 2019-08 to 2024-08 |
 |Yonsei University| Integrated OMICS for Biomedical Sciences | MS in Biomedical science | Seoul, Republic of Korea | 2011-03 to 2013-08 |
 | Soongsil University | School of Systems Biomedical Science | BS in Life Science and Bioinformatics | Seoul, Republic of Korea | 2005-03 to 2011-02 |
