@@ -3,8 +3,9 @@
 ![](./image/my-photo.jpg)  
 
 An active PhD student in University of California, Berkeley, since 2019, participate in:  
-* Comparative Biochemistry graduate program  
-* Designated Emphasis in Computational and Genomic Biology  
+
+ * Comparative Biochemistry graduate program  
+ * Designated Emphasis in Computational and Genomic Biology  
 
 My interest in biology and computer science lead me into the field of bioinformatics/computational biology. Currently focus on development and application of a sequence comparison based on language analysis (e.g., alignment-free approach) that view biological sequences as information and rely on a choice of descriptors (data) over models.  
 
