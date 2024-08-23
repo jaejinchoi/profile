@@ -3,9 +3,10 @@
 ![](./image/my-photo.jpg)  
 
 Postdoc in University of California, Berkeley, since 2024, focused on:  
-* Evolutionary study 
-* Development and application of an alignment-free sequence comparison of information theory 
-* Virus evolution and origin study
+
+- Evolutionary study
+- Development and application of an alignment-free sequence comparison of information theory
+- Virus evolution and origin study
 
 My interest in biology and computer science lead me into the field of bioinformatics/computational biology. Currently focus on development and application of a sequence comparison based on language analysis (e.g., alignment-free approach) that view biological sequences as information and rely on a choice of descriptors (data) over models.  
 
