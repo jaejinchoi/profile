@@ -21,7 +21,7 @@ My interest in biology and computer science lead me into the field of bioinforma
 
 
 ### <span style="color: blue;">Current research interest</span>  
-* Evolutionary study; Phylogenomics
+* Evolutionary study; Phylodynamics
 * Population genomics
 * Data science
 * (Large) Data summary and visualization 
